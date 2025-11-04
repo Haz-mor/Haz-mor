@@ -17,6 +17,22 @@ Soy un profesional en transición al mundo del Data Science, con experiencia pr�
 
 ---
 
+## 💻 Lenguajes de Programación Fundamentales
+*Estos lenguajes son la base de mi trabajo en análisis y desarrollo.*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+---
+
+### 📊 Mis Estadísticas en GitHub
+
+[![Estadísticas de Omar](https://github-readme-stats.vercel.app/api?username=Haz-mor&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/Haz-mor)
+
+---
+
 ### 🚀 Stack y Enfoque Actual
 
 * 🔭 **Actualmente estoy trabajando en...**
