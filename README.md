@@ -36,7 +36,11 @@ Soy un profesional en transición al mundo del Data Science, con experiencia pr�
 ### 📊 Mis Estadísticas en GitHub
 
 [![Estadísticas de Omar](https://github-readme-stats.vercel.app/api?username=Haz-mor&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/Haz-mor)
-
+ 
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haz-mor&layout=compact&theme=dark" alt="Tus Lenguajes de Programación" />
+  </a>
+</p>
 ---
 
 ### 🚀 Stack y Enfoque Actual
