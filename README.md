@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Omar | Data Scientist & ML Practitioner
+# 👋 ¡Hola! Soy Omar | Data Scientist & ML Developer
 
 ### 🚀 Transformando Datos en Modelos Predictivos y Soluciones de Negocio
 
