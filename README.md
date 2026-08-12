@@ -1,8 +1,12 @@
-## 👋 ¡Hola, soy Omar! Un Data Scientist en Transición.
+# 👋 ¡Hola! Soy Omar | Data Scientist & ML Practitioner
 
-### 💡 Transformando Datos en Decisiones Estratégicas
+### 🚀 Transformando Datos en Modelos Predictivos y Soluciones de Negocio
 
-Soy un profesional en transición al mundo del Data Science, con experiencia práctica en análisis y optimización de procesos. Mi enfoque es usar el poder de los datos para generar valor de negocio.
+Data Scientist especializado en el desarrollo, optimización y despliegue de **modelos de Machine Learning**. Mi enfoque combina el rigor estadístico con una sólida comprensión de negocio para transformar grandes volúmenes de datos en decisiones estratégicas e impactantes.
+
+* 🤖 **Machine Learning & Modeling:** Regresión, Clasificación, Clustering y Redes Neuronales (Scikit-Learn, Keras).
+* 📊 **Análisis & Manipulación de Datos:** Exploración, limpieza y feature engineering (Python, Pandas, SQL).
+* 🛠️ **Flujo de Desarrollo:** Control de versiones y prototipado ágil (Git, Jupyter Notebooks).
 
 ---
 
