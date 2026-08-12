@@ -39,12 +39,15 @@ Data Scientist especializado en el desarrollo, optimización y despliegue de **m
 
 ### 📊 Mis Estadísticas en GitHub
 
-[![Estadísticas de Omar](https://github-readme-stats.vercel.app/api?username=Haz-mor&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/Haz-mor)
- 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haz-mor&layout=compact&theme=dark" alt="Tus Lenguajes de Programación" />
+<p align="center">
+  <a href="https://github.com/Haz-mor">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=Haz-mor&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estadísticas de Omar" width="48%" />
+  </a>
+  <a href="https://github.com/Haz-mor">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Haz-mor&layout=compact&theme=dark" alt="Lenguajes de Omar" width="48%" />
   </a>
 </p>
+
 ---
 
 ### 🚀 Stack y Enfoque Actual
